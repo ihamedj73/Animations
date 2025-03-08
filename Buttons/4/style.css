@@ -1,0 +1,24 @@
+body {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+a {
+  padding: 40px 80px;
+  font-family: sans-serif;
+  text-decoration: none;
+  color: #262626;
+  font-size: 45px;
+  letter-spacing: 2px;
+  border: 5px solid #262626;
+  position: relative;
+  transition: 0.3s;
+  font-weight: normal;
+}
+
+a:hover {
+  letter-spacing: 10px;
+  font-weight: bold;
+}
