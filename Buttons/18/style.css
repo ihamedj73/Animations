@@ -44,10 +44,8 @@ button::after {
   height: 24px;
   bottom: -5px;
   right: -5px;
-
   border-right: 2px solid #c47135;
   border-bottom: 2px solid #c47135;
-
   transition: all 0.25s;
 }
 
